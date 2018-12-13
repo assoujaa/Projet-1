@@ -13,6 +13,7 @@ public class Compte {
 	protected double solde;
 	private Date dateOuverture;
 	private List<Operation> listeOperations;
+	private int hj;
 	
 	
 
